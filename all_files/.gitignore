@@ -1,0 +1,8 @@
+target
+
+*.o
+*.a
+*.so
+
+out/*
+obj/*
